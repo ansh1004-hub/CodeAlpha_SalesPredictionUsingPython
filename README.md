@@ -1,4 +1,5 @@
 # CodeAlpha_SalesPredictionUsingPython
+### Introduction 
 This project aims to build a machine learning model capable of predicting sales based on advertising expenditures across different media. Using a dataset that includes spending on TV, Radio, and Newspaper advertisements, we will explore the relationships between these variables and the resulting sales figures. The primary goal is to develop a robust regression model that can accurately forecast sales, providing valuable insights for optimizing advertising strategies.
 
 Project Workflow and Problem-Solving Approach:
