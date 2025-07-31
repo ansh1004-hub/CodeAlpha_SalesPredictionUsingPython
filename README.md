@@ -5,6 +5,7 @@ Project Workflow and Problem-Solving Approach:
 The sales prediction problem is tackled using a standard machine learning regression workflow, implemented entirely in Python. The key steps involved are:
 
 Data Loading and Initial Inspection: We begin by loading the dataset into a Pandas DataFrame. Initial checks are performed to understand the data's structure, identify data types, and confirm the absence of missing values, ensuring data quality.
+Link For DataSet : https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
 Exploratory Data Analysis (EDA): This crucial phase involves visualizing the relationships within the data. We use:
 
